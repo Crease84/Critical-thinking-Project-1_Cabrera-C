@@ -12,7 +12,7 @@ public class Restaurant {
 		
 		System.out.println("Gregorio's");
 		System.out.println("1910 Wasdwroth Blvd");
-		System.out.println("Lakewood,CO 80214");
+		System.out.println("Lakewood, CO 80214");
 		
 	}
 
