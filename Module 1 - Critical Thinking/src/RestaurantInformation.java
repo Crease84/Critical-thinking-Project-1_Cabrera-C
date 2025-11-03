@@ -11,7 +11,7 @@ public class RestaurantInformation {
 	public static void main(String[] args) {
 		
 		String restaurantName = "Gregorio's";
-		String streetAddress = "1910 Wasdwroth Blvd";
+		String streetAddress = "1910 Wadsworth Blvd";
 		String cityStateZip = "Lakewood, CO 80214";
 
 		System.out.println(restaurantName);
